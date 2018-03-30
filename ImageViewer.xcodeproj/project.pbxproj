@@ -29,7 +29,7 @@
 		7F6E1FB4206E9F3D00BC7169 /* gc06.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7F6E1FA2206E9F3D00BC7169 /* gc06.jpeg */; };
 		7F6E1FB5206E9F3D00BC7169 /* gc01.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7F6E1FA3206E9F3D00BC7169 /* gc01.jpeg */; };
 		7F6E1FB6206E9F3D00BC7169 /* gc40.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7F6E1FA4206E9F3D00BC7169 /* gc40.jpeg */; };
-		7F6E1FB7206E9F3D00BC7169 /* gc68.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 7F6E1FA5206E9F3D00BC7169 /* gc68.JPG */; };
+		7F6E1FBB206EAA1A00BC7169 /* gc68.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7F6E1FBA206EAA1A00BC7169 /* gc68.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,7 +57,7 @@
 		7F6E1FA2206E9F3D00BC7169 /* gc06.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gc06.jpeg; sourceTree = "<group>"; };
 		7F6E1FA3206E9F3D00BC7169 /* gc01.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gc01.jpeg; sourceTree = "<group>"; };
 		7F6E1FA4206E9F3D00BC7169 /* gc40.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gc40.jpeg; sourceTree = "<group>"; };
-		7F6E1FA5206E9F3D00BC7169 /* gc68.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gc68.JPG; sourceTree = "<group>"; };
+		7F6E1FBA206EAA1A00BC7169 /* gc68.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gc68.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,7 +121,7 @@
 				7F6E1FA2206E9F3D00BC7169 /* gc06.jpeg */,
 				7F6E1FA3206E9F3D00BC7169 /* gc01.jpeg */,
 				7F6E1FA4206E9F3D00BC7169 /* gc40.jpeg */,
-				7F6E1FA5206E9F3D00BC7169 /* gc68.JPG */,
+				7F6E1FBA206EAA1A00BC7169 /* gc68.jpeg */,
 			);
 			name = Images;
 			path = ../../Images;
@@ -185,8 +185,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F6E1FB7206E9F3D00BC7169 /* gc68.JPG in Resources */,
 				7F6E1FA6206E9F3D00BC7169 /* gc58.jpeg in Resources */,
+				7F6E1FBB206EAA1A00BC7169 /* gc68.jpeg in Resources */,
 				7F6E1FB4206E9F3D00BC7169 /* gc06.jpeg in Resources */,
 				7F6E1FAE206E9F3D00BC7169 /* gc24.jpeg in Resources */,
 				7F6E1FAB206E9F3D00BC7169 /* gc52.jpeg in Resources */,
